@@ -15,3 +15,5 @@ A Hypixel Skyblock mod to notify the user of valuable flips or specific items li
 > Click the text to open the auction house
 
 **not all prices will be 100% correct, be sure you know the true price of things before buying as they could be subject to market manipulation. A good way of checking this could be using a mod like NEU, as they have a better calculator.**
+
+If you are suspicious of the mod feel free to decompile the mod, but it is open-source and displayed above.
